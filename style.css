@@ -1,0 +1,15 @@
+body{
+    background-color: #8B0000;
+}
+
+.painel{
+    margin: auto;
+    background-color: rgb(255, 255, 255);
+    width: 500px;
+    height: 500px;
+    border-radius: 20px;
+    text-align: center;
+    padding-top: 50px;
+}
+
+
